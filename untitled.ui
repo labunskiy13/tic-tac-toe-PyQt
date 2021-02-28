@@ -30,7 +30,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>Без названия.png</normaloff>Без названия.png</iconset>
+    <normaloff>icon.png</normaloff>icon.png</iconset>
   </property>
   <widget class="QWidget" name="gridLayoutWidget">
    <property name="geometry">
